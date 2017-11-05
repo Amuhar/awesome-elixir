@@ -82,7 +82,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
     - [Version Control](#version-control)
     - [Video](#video)
     - [XML](#xml)
-    - [YAML](#yaml)
 - [Resources](#resources)
     - [Books](#books)
     - [Community](#community)
@@ -1507,14 +1506,6 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
 * [xml_builder](https://github.com/joshnuss/xml_builder) - Elixir library for generating xml.
 * [xmlrpc](https://github.com/ewildgoose/elixir-xml_rpc) - Library for encoding and decoding XML-RPC for clients and servers.
-
-## YAML
-*Libraries and implementations working with YAML.*
-
-* [fast_yaml](https://github.com/processone/fast_yaml) - Fast YAML is an Erlang wrapper for libyaml "C" library.
-* [yamerl](https://github.com/yakaz/yamerl) - YAML 1.2 parser in Erlang.
-* [yaml_elixir](https://github.com/KamilLelonek/yaml-elixir) - Yaml parser for Elixir based on native Erlang implementation.
-* [yomel](https://github.com/Joe-noh/yomel) - libyaml interface for Elixir.
 
 # Resources
 Various resources, such as books, websites and articles, for improving your Elixir development skills and knowledge.
