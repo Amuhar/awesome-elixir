@@ -108,6 +108,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [sbroker](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
 * [workex](https://github.com/sasa1977/workex) - Backpressure and flow control in EVM processes.
 * [array](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
+* [aruspex](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 
 ## Algorithms and Data structures
 *Libraries and implementations of algorithms and data structures.*
